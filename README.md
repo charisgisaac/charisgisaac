@@ -1,5 +1,5 @@
 - Hello, I’m @charisgisaac
-- I’m interested in Technical Writing, API Documentation and DITA XML
+- I’m a Technical Writer interested in Technical Editing, API Documentation and DITA XML.
 
 
 <!---
